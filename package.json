@@ -1,0 +1,21 @@
+{
+  "name": "aeiou-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.11.0",
+    "axios": "^1.1.2",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "quick.db": "^9.0.6",
+    "sodium-native": "^3.4.1",
+    "tweetnacl": "^1.0.3"
+  }
+}
